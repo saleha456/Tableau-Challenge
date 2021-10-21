@@ -1,10 +1,12 @@
 # Tableau-Challenge
 
-#### Citibike Trip Data - Summer 2021
+### Citibike Trip Data - Summer 2021
 
 This analysis looks at Citibike trip data for New York and Jersey City during the summer months of 2021 (June 2021-September 2021).  The Tableau workbook can be found [here](https://public.tableau.com/app/profile/saleha.ahmed7799/viz/CitiBikeSummer2021/CitibikeTripsinSummer2021).
 
-#### Findings:
+**Data Source:** [Citi Bike System Data](https://ride.citibikenyc.com/system-data)
+
+### Findings:
 
 **Stations and Starting Locations:**
 
