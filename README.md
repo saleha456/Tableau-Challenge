@@ -10,15 +10,15 @@ This analysis looks at Citibike trip data for New York and Jersey City during th
 
 There are more stations toward center New York City than there are in the surrounding areas.  Stations near center city are more frequently used than ones on the outskirts of the city.
 
-![](Images\map_tripstartlocation.png)
+<img src="Images\map_tripstartlocation.png"  />
 
 **Popular Starting Locations and Destinations:**
 
 The top trip starting location was at E 17th and Broadway, located near Union Square Park, which recorded approximately 55,500 trips.  The number one destination from this location was at E 17th and Broadway, indicating people went for a ride at Union Square Park and returned at their starting point.  Other top destinations from this point include 2 stations on the other side of the park, which shows similar behavior.  Other destinations include locations near subway stations.
 
-![](Images\top10startinglocations.png)
+<img src="Images\top10startinglocations.png"  />
 
-![](Images\topdestinationsfromE17thandBroadway.png)
+<img src="Images\topdestinationsfromE17thandBroadway.png"  />
 
 **Travel Duration and Distance by Bike Type:**
 
@@ -30,25 +30,25 @@ Majority of the trips were from the classic bike type.  On average people who us
 
 There were huge drops in number of trips due to hurricanes,  indicating trip volume is affected by weather. Also, there were spikes in the number of trips around weekends, especially Saturdays in September, and holidays or notable days, such as September 11th, where many people visited the city in remembrance of that day.  Interestingly, immediately after Hurricane Ida hit on September 1st, there was a spike in number of trips the next day, confirming many people used bikes as a mode of transportation after many subways were flooded.
 
-![](Images\tripsovertime.png)
+<img src="Images\tripsovertime.png"  />
 
 **Trips by Hour of Day:**
 
 On weekdays there is a spike in number of trips during peak commuter hours. Interestingly, people are more likely to use another mode transportation for a morning commute (especially on a Wednesday or Friday morning) and are more likely to bike during afternoon or evening commute.  On weekends, the number of trips seems to be spread out throughout the day.
 
-![](Images\tripsbyhod.png)
+<img src="Images\tripsbyhod.png"  />
 
 People using bikes during peak commute times are highly likely to have a Citibike membership as opposed to casual customers. This indicates that most members are using bikes to commute to work or school and back home or use bikes for exercise after work.  During peak commute hours, members tend to travel a farther distance as well.
 
-![](Images\membershiptraveldow.png)
+<img src="Images\membershiptraveldow.png"  />
 
-![](Images\distancebyhod.png)
+<img src="Images\distancebyhod.png"  />
 
 **Membership Type:**
 
 Majority of Citibike trips were made by members.  This further indicates that Citibike customers who are members are more likely to use bikes as a major form of transportation, especially for commuting. They might even choose to become a member for commuting or exercise.
 
-![](Images\membershiptype.png)
+<img src="Images\membershiptype.png" style="zoom:150%;" />
 
 **Conclusion:**
 
